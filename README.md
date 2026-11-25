@@ -12,13 +12,13 @@ Looking at the screenshots isn't nearly as cool as trying it out yourself so jus
 
 ## Screenshots
 
-### Main Generator
+### Gameplay
 
 Your game will look like this.
 
 ![Screenshot 1](Screenshot%202026-11-24%20160712.png)
 
-### Refreshing The Receipt
+### Score
 
 Your score will be shown in the corner.
 
