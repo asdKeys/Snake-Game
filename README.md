@@ -24,6 +24,8 @@ Your score will be shown in the corner.
 
 ![Screenshot 2](Screenshot%202026-11-24%20160727.png)
 
+### Menu
+
 This is the death screen.
 
 ![Screenshot 3](Screenshot%202026-11-24%20160734.png)
